@@ -1,1 +1,1 @@
-# Scrap_BMKG_Earthquake
+# Scrap BMKG Earthquake
